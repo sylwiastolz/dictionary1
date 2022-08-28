@@ -1,0 +1,11 @@
+a {
+  border: 13px solid blueviolet;
+  text-decoration: none;
+  padding: 10px 10px;
+  border-radius: 20px;
+  transition: all 150ms ease-in-out;
+}
+a:hover {
+  background-color: green;
+  color: aliceblue;
+}

@@ -10,7 +10,7 @@ export default function App() {
           <p className="title-header">Dictionary</p>
         </header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="sunset" />
         </main>
         <footer>Coded by Sylwia Stolz</footer>
       </div>

@@ -1,9 +1,18 @@
 .container {
   text-align: center;
-  background-color: aquamarine;
+  background-color: #c9fdd7;
+  margin: 0 auto;
+  display: block;
+  margin-top: 20px;
 }
 
 .title-header {
   font-size: 40px;
-  text-decoration: underline;
+
+  color: #6892d5;
+}
+footer {
+  font-size: 15px;
+  text-align: left;
+  color: #6892d5;
 }
