@@ -1,5 +1,5 @@
 import "./App.css";
-import logo from "./logoss.png";
+
 import Dictionary from "./Dictionary";
 
 export default function App() {
@@ -7,12 +7,12 @@ export default function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <p className="btn btn-primary">Hellllo</p>
-          <img src={logo} alt="logosylwia" />
+          <p className="title-header">Dictionary</p>
         </header>
         <main>
           <Dictionary />
         </main>
+        <footer>Coded by Sylwia Stolz</footer>
       </div>
     </div>
   );
