@@ -12,8 +12,8 @@ export default function App() {
         <main>
           <Dictionary defaultKeyword="sunset" />
         </main>
-        <footer>Coded by Sylwia Stolz</footer>
       </div>
+      <footer>Coded by Sylwia Stolz</footer>
     </div>
   );
 }

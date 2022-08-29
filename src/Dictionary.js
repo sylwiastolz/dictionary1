@@ -42,7 +42,7 @@ export default function Dictionary(props) {
               defaultValue={props.defaultKeyword}
             />
           </form>
-          <div className="hint">Write a word to find a definition</div>
+          <div className="hint">Write a word to find a definition...</div>
         </section>
         <Result results={results} />
       </div>

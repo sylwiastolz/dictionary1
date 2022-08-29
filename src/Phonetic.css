@@ -1,11 +1,17 @@
 a {
-  border: 13px solid blueviolet;
+  border: 2px solid #79d1c3;
+  color: #6892d5;
   text-decoration: none;
-  padding: 10px 10px;
-  border-radius: 20px;
+  padding: 10px 20px;
+  border-radius: 25px;
   transition: all 150ms ease-in-out;
+  margin-left: 20px;
 }
 a:hover {
-  background-color: green;
+  background-color: #79d1c3;
   color: aliceblue;
+}
+.phonetic {
+  text-align: left;
+  margin-left: 20px;
 }

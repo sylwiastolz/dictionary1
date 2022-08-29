@@ -1,5 +1,12 @@
 h2 {
   font-size: 36px;
   font-weight: bold;
-  line-height: 1.5;
+
+  text-align: left;
+  color: #79d1c3;
+  margin-left: 20px;
+}
+h3 {
+  color: #79d1c3;
+  text-align: left;
 }
